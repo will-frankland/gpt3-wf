@@ -1,5 +1,5 @@
 import React from 'react';
-import './possibilites.css';
+import './possibilities.css'
 
 const Possibilities = () => {
   return (
