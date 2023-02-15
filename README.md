@@ -14,6 +14,8 @@ I followed a tutorial created by JavaScriptMastery to become more proficient wit
 
 The GPT3 clone has been deployed on Netlify can be viewed here:
 
+https://openaiclone.netlify.app
+
 
 ## Tech Stack
 
