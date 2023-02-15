@@ -24,8 +24,8 @@ The GPT3 clone has been deployed on Netlify can be viewed here:
 
 ## Screenshots
 
-!["Screenshot of Homepage"]()
-!["Screenshot OpenAI section"]()
+!["Screenshot of Homepage"](https://github.com/will-frankland/gpt3-wf/blob/main/docs/homepage.png?raw=true)
+!["Screenshot OpenAI section"](https://github.com/will-frankland/gpt3-wf/blob/main/docs/OpenAI.png?raw=true)
 
 
 ## Dependencies
